@@ -113,7 +113,7 @@ div {
                 }
             }
 
-            /**************  which room *****************/
+            /**************  which room ****************/
             echo"
             <table align='center' bgcolor='grey'>
                 <tr>
